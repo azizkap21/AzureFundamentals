@@ -1,0 +1,5 @@
+## Ignore open documents 
+~$*.[Dd]ocx
+~$*.[Dd]oc
+~$*.[Xx]lsx
+~$*.[Xx]ls
